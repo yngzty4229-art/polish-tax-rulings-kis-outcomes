@@ -2,6 +2,8 @@
 
 2,206 official Polish tax rulings labeled correct/incorrect, Sep–Oct 2026.
 
+Also on Kaggle: https://www.kaggle.com/datasets/krzysztoffilipiak/polish-tax-rulings-kis-outcomes
+
 Data file: `polish_tax_rulings_2026_09_28_to_10_25.csv.gz` (gzip-compressed CSV, UTF-8).
 
 Official **individual tax interpretations** issued by the Polish National Tax Information (KIS) and published in the Ministry of Finance's **EUREKA** database between 28 September and 25 October 2026 (2,206 documents), with an automatically detected **outcome**: was the taxpayer's position correct?
